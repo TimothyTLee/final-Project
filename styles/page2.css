@@ -1,24 +1,51 @@
 section.details {
   display: grid;
   grid-template-columns: 2;
+  grid-template-rows: auto;
 }
 img.image1 {
   grid-row: 1;
   grid-column: 1;
+  padding-top: 85px;
 }
 .faucet-components {
   grid-row: 1;
   grid-column: 2;
+  padding-top: 50px;
+  padding-left: 50px;
 }
 img.image2 {
   grid-row: 2;
-  grid-column: 2;
-}
-img.image3 {
-  grid-row: 3;
-  grid-column: 2;
+  grid-column: 1;
+  padding-top: 75px;
 }
 .stems {
-  grid-row: 2/4;
+  grid-row: 2;
+  grid-column: 2;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+img.image4 {
+  grid-row: 3;
   grid-column: 1;
+  padding-top: 75px;
+}
+.working-faucet {
+  grid-row: 3;
+  grid-column: 2;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.cartridge-removal {
+  grid-row: 1;
+  grid-column: 2;
+  padding-bottom: 50px;
+}
+.where-to-buy {
+  grid-row: 2;
+  grid-column: 2;
+}
+.replacing-cartridge {
+  grid-row: 3;
+  grid-column: 2;
 }

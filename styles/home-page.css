@@ -1,0 +1,28 @@
+section.homeDetails {
+  display: grid;
+  grid-template-columns: 2;
+}
+img.imageOne {
+  grid-row: 1;
+  grid-column: 1;
+  padding-top: 50px;
+}
+.faucet-drip {
+  grid-row: 1;
+  grid-column: 2;
+  padding-left: 50px;
+}
+img.imageTwo {
+  grid-row: 2;
+  grid-column: 1;
+  padding-top: 100px;
+}
+.waterheater {
+  grid-row: 2;
+  grid-column: 2;
+  padding-top: 100px;
+}
+.logo {
+  grid-row: 1;
+  grid-column: 1;
+}
