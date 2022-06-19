@@ -49,3 +49,9 @@ img.image4 {
   grid-row: 3;
   grid-column: 2;
 }
+.logo {
+  grid-row: 1;
+  grid-column: 1;
+  width: 8%;
+  float: left;
+}
