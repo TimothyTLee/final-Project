@@ -36,7 +36,6 @@ body {
   text-align: center;
 }
 img {
-  display: block;
   margin: 0 auto;
   padding-bottom: 40px;
 }
@@ -179,11 +178,12 @@ nav a:hover {
 }
 footer {
   padding: 2em;
+  max-width: 100%;
+  max-height: 50px;
   text-align: center;
+  align-items: center;
   color: var(--paragraph-color-on-color);
   background-color: var(--paragraph-background-color);
   display: flex;
-  padding-top: 20px;
-  max-height: 50px;
-  max-width: 100%;
+  padding-top: 25px;
 }

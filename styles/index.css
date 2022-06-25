@@ -28,3 +28,6 @@ img.imageTwo {
   width: 8%;
   float: left;
 }
+.social a {
+  display: inline;
+}
