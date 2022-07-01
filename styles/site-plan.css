@@ -177,13 +177,12 @@ nav a:hover {
   border-right: 1px solid;
 }
 footer {
-  padding: 2em;
+  padding: 0em 2em 0em 2em;
   max-width: 100%;
-  max-height: 50px;
   text-align: center;
   align-items: center;
   color: var(--paragraph-color-on-color);
   background-color: var(--paragraph-background-color);
   display: flex;
-  padding-top: 25px;
+  margin-top: 50px;
 }
