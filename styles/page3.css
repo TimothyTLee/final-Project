@@ -7,4 +7,12 @@
 .waterheater-talk,
 .heater-basics {
   text-align: left;
+  border: black 1px solid;
+}
+.social {
+  display: inline;
+  padding-top: 56px;
+}
+.footer {
+  margin-top: 50px;
 }

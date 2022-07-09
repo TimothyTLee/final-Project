@@ -7,6 +7,7 @@ img.image1 {
   grid-row: 1;
   grid-column: 1;
   padding-top: 85px;
+  padding-right: 25px;
 }
 .faucet-components {
   grid-row: 1;
@@ -22,8 +23,8 @@ img.image2 {
 .stems {
   grid-row: 2;
   grid-column: 2;
-  padding-top: 50px;
   padding-left: 50px;
+  padding-top: 50px;
 }
 img.image4 {
   grid-row: 3;
@@ -39,11 +40,11 @@ img.image4 {
 .cartridge-removal {
   grid-row: 1;
   grid-column: 2;
-  padding-bottom: 50px;
 }
 .where-to-buy {
   grid-row: 2;
   grid-column: 2;
+  padding-bottom: 50px;
 }
 .replacing-cartridge {
   grid-row: 3;
@@ -54,4 +55,19 @@ img.image4 {
   grid-column: 1;
   width: 8%;
   float: left;
+}
+.stems,
+.faucet-components,
+.working-faucet {
+  border: black 1px solid;
+  box-shadow: 5px 10px lightgrey;
+  text-align: left;
+  max-height: 565px;
+}
+.social {
+  display: inline;
+  padding-top: 56px;
+}
+.footer {
+  margin-top: 50px;
 }
