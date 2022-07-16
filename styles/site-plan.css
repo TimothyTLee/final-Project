@@ -61,6 +61,7 @@ header {
   text-align: center;
   color: var(--paragraph-color-on-color);
   background-color: var(--paragraph-background-color);
+  border: purple 5px solid;
 }
 header > h1,
 header > h2 {
@@ -113,6 +114,7 @@ nav {
 nav {
   list-style-type: none;
   display: flex;
+  justify-content: center;
 }
 nav a {
   padding: 1em;
@@ -185,4 +187,6 @@ footer {
   background-color: var(--paragraph-background-color);
   display: flex;
   margin-top: 50px;
+  border: purple 5px solid;
+  justify-content: space-between;
 }

@@ -4,10 +4,12 @@
   width: 8%;
   float: left;
 }
-.waterheater-talk,
-.heater-basics {
+div.trick-details,
+div.tip-details {
   text-align: left;
-  border: black 1px solid;
+  border: #426b69 2px solid;
+  box-shadow: 5px 10px #426b69;
+  margin-bottom: 50px;
 }
 .social {
   display: inline;
@@ -15,4 +17,15 @@
 }
 .footer {
   margin-top: 50px;
+}
+.image002 {
+  padding-top: 50px;
+}
+.waterheater {
+  text-align: left;
+  border: #426b69 2px solid;
+  box-shadow: 5px 10px #426b69;
+}
+.margin-100 {
+  margin-bottom: 100px;
 }
