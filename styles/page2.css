@@ -13,10 +13,10 @@ img.image1 {
   grid-row: 1;
   grid-column: 2;
 }
-.faucet-components {
-  /* padding-top: 50px;
+/* .faucet-components { */
+/* padding-top: 50px;
   padding-left: 50px; */
-}
+
 img.image2 {
   grid-row: 2;
   grid-column: 1;
@@ -26,10 +26,10 @@ img.image2 {
   grid-row: 2;
   grid-column: 2;
 }
-.stems {
-  /* padding-left: 50px;
+/* .stems { */
+/* padding-left: 50px;
   padding-top: 50px; */
-}
+
 img.image4 {
   grid-row: 3;
   grid-column: 1;
@@ -39,10 +39,10 @@ img.image4 {
   grid-row: 3;
   grid-column: 2;
 }
-.working-faucet {
-  /* padding-top: 50px;
+/* .working-faucet { */
+/* padding-top: 50px;
   padding-left: 50px; */
-}
+
 .cartridge-removal {
   grid-row: 1;
   grid-column: 2;
@@ -89,9 +89,8 @@ img.image4 {
   box-shadow: 5px 10px #426b69;
   padding-bottom: 20px;
 }
-.faucet-components {
-  /* padding-top: 50px; */
-}
+/* faucet-components { */
+/* padding-top: 50px; */
 
 div.padding-50 {
   padding: 50px;

@@ -2,7 +2,6 @@ section.homeDetails {
   display: grid;
   grid-template-columns: 2;
 }
-
 .logo {
   grid-row: 1;
   grid-column: 1;
@@ -12,12 +11,10 @@ section.homeDetails {
 .social a {
   display: inline;
 }
-
 img.imageOne,
 img.imageTwo {
   margin-bottom: 1%;
 }
-
 .social {
   padding-top: 56px;
 }
@@ -25,6 +22,6 @@ img.imageTwo {
   margin-top: 50px;
 }
 img.imageThree {
-  border: 2px #456b69 solid;
+  border: #456b69 2px solid;
   box-shadow: 5px 10px #456b69;
 }
