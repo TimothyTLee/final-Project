@@ -1,6 +1,6 @@
 section.homeDetails {
   display: grid;
-  grid-template-columns: 2;
+  grid-template-columns: 1fr;
 }
 .logo {
   grid-row: 1;
